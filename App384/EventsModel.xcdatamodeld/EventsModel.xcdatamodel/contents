@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22522" systemVersion="22G513" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="EventsModel" representedClassName="EventsModel" syncable="YES" codeGenerationType="class">
+        <attribute name="evArena" optional="YES" attributeType="String"/>
+        <attribute name="evDate" optional="YES" attributeType="String"/>
+        <attribute name="evHeadline" optional="YES" attributeType="String"/>
+        <attribute name="evPT1" optional="YES" attributeType="String"/>
+        <attribute name="evPT2" optional="YES" attributeType="String"/>
+        <attribute name="evTeam1" optional="YES" attributeType="String"/>
+        <attribute name="evTeam2" optional="YES" attributeType="String"/>
+    </entity>
+</model>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22522" systemVersion="22G513" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="BudgetsModel" representedClassName="BudgetsModel" syncable="YES" codeGenerationType="class">
+        <attribute name="budDate" optional="YES" attributeType="String"/>
+        <attribute name="budSum" optional="YES" attributeType="String"/>
+        <attribute name="budTitle" optional="YES" attributeType="String"/>
+        <attribute name="budType" optional="YES" attributeType="String"/>
+    </entity>
+</model>

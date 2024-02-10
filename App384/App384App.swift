@@ -2,7 +2,7 @@
 //  App384App.swift
 //  App384
 //
-//  Created by IGOR on 01/02/2024.
+//  Created by DJUROM on 03/02/2024.
 //
 
 import SwiftUI
@@ -11,7 +11,10 @@ import SwiftUI
 struct App384App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            
+            NavigationView(content: {
+                ContentView()
+            })
         }
     }
 }
